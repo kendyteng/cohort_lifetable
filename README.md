@@ -43,6 +43,6 @@ A few demo life tables from the data of this study and a simulated dataset.
 ## Instructions for use
 ### How to run the software on your data
 Please see 'lifetable_instruction' file.  
-In short, you will need a numeric column in the dataset named 'lifespan' to generate the cohort life table. 
+In short, you will need a numeric column in a data.frame named 'lifespan' to generate the cohort life table. 
 
 &nbsp; 
