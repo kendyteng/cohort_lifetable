@@ -1,9 +1,7 @@
 #  Building a cohort life table
 This is the README file for the R codes for the UK dog life table study.
-&nbsp;
 
 ## Citation 
-&nbsp;
 
 ## System requirements 
 ### Software dependencies
@@ -17,7 +15,6 @@ RStudio: Version 1.3.1073
 
 ### R package dependencies of the lifetable functions
     tidyverse
-&nbsp;
 
 ### R package dependencies of the demo
     rio
@@ -46,4 +43,6 @@ A few demo life tables from the data of this study and a simulated dataset.
 ## Instructions for use
 ### How to run the software on your data
 Please see 'lifetable_instruction' file.  
-In short, you will need a numeric column in the dataset named 'lifespan'
+In short, you will need a numeric column in the dataset named 'lifespan' to generate the cohort life table. 
+
+&nbsp; 
