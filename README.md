@@ -9,7 +9,7 @@ This is the README file for the R codes for the UK dog life table study.
 R (and Rstudio)
 
 ### Versions the software has been tested on
-R: R version 4.0.2
+R: R version 4.0.2  
 RStudio: Version 1.3.1073
 
 ### R package dependencies of the lifetable functions
@@ -30,7 +30,7 @@ No installation is needed.
 
 ## Demo
 ### Instructions to run on data
-Please follow 'lifetable_instruction' file
+Please follow 'lifetable_instruction' file  
 'lifetable_func_oa' file contains the functions of building cohort life tables 
 
 ### Expected output
