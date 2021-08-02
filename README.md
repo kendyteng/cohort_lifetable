@@ -35,14 +35,14 @@ Please follow 'lifetable_instruction' file.
 'lifetable_func_oa' file contains the functions of building cohort life tables.  
 
 ### Expected output
-A few demo life tables from the data of this study and a simulated dataset.  
+Some demo life tables from the data of this study and a simulated dataset.  
 
 ### Expected run time for demo on a "normal" desktop computer
-5-15 seconds if you run the code at once.  
+5-15 seconds if the code is run at once.  
 
 ## Instructions for use
 ### How to run the software on your data
 Please see 'lifetable_instruction' file.  
-In short, you will need a numeric column in a data.frame named 'lifespan' to generate the cohort life table. 
+In short, a numeric column in a data.frame named 'lifespan' is needed to generate the cohort life table. 
 
-&nbsp; 
+
